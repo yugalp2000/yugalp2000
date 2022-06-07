@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yugalp2000
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
+-     SWE Intern @iShoAtoZ
 - 📫 How to reach me yugalp2000@gmail.com
 
 <!---
