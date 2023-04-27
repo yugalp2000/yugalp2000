@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
 -     Former SWE Intern @iShoAtoZ
--     Game Developer (Trainee) @Logic Simplified
+-     Game Developer @Logic Simplified
 - 📫 How to reach me yugalp2000@gmail.com
 
 <!---
